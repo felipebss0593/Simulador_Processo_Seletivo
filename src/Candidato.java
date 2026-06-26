@@ -29,7 +29,7 @@ public class Candidato extends Pessoa{
 
     public void exibirPerfil(){
         System.out.println("Nome do candidato(a): " + getNome());
-        System.out.println("Idade do candidato(a): " + getIdade());
+        System.out.println("Idade do candidato(a): " + getIdade() + " Anos");
         System.out.println("Curso do candidato(a): " + getCurso());
         System.out.println("Semestre em qual o candidato está: " + getSemestre() + " Semestre");
         System.out.println("Nota do teste do candidato: " + getNotaTeste());
