@@ -36,7 +36,7 @@ O objetivo é representar um cenário simples de recrutamento, aplicando conceit
 
 ## 📷 Demonstração
 
-*Em breve.*
+![Demonstração do sistema](assets/demonstracao.png)
 
 ## 👨‍💻 Autor
 
