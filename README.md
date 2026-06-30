@@ -42,4 +42,4 @@ O objetivo é representar um cenário simples de recrutamento, aplicando conceit
 
 Desenvolvido por **Felipe Fernando**.
 
-🔗 GitHub: https://github.com/felipebss0593
+🔗 GitHub: <https://github.com/felipebss0593>
